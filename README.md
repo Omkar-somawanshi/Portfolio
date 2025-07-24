@@ -13,15 +13,14 @@ Designed to be visually appealing and functional on all devices, it integrates m
 
 ### 💻 Home Page
 
-![Homepage Screenshot](../Omkar%20Portfolio/src/assets/home.PNG)
+![Homepage Screenshot](./src/assets/home.PNG)
 
 ### 📂 Projects Section
-![Projects Screenshot](../Omkar%20Portfolio/src/assets/pro.PNG)
+![Projects Screenshot](./src/assets/pro.PNG)
 
-![Projects Screenshot](../Omkar%20Portfolio/src/assets/pro1.PNG)
-
+![Projects Screenshot](./src/assets/pro1.PNG)
 ### 🙋‍♂️ Skills
-![Projects Screenshot](../Omkar%20Portfolio/src/assets/skill.PNG)
+![Projects Screenshot](./src/assets/skill.PNG)
 
 
 ## ⚙️ Features
